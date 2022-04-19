@@ -1,0 +1,57 @@
+.profile{
+    width:90%;
+    border-radius: 50%;
+    height: 100%;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Dosis', sans-serif;
+}
+.bio{
+  
+}
+.margin-right{
+    margin-right: 4px;
+}
+.center {
+    margin: auto;
+    width: 50%;
+  }
+  .outline{
+      border: 2px solid black;
+      padding: 10px;
+  }
+  .border-radius{
+      border-radius: 40%;
+  }
+  .githubLink{
+      padding-left: 7%;
+  }
+  .link{
+      text-decoration: none;
+      color: #000;
+  }
+  .pagination{
+      align-items: center;
+      padding-left: 18%;
+  }
+  .navButton1{
+      align-items: center;
+      padding-left: 30%;
+  }
+  .navButton2{
+      align-items: center;
+      margin-left:30%;
+  }
+  .button{
+      border-radius: 16px;
+  }
+  .page-link:hover{
+    background-color: #4D4C7D;
+  }
+  .btn-primary{
+      background-color: #4D4C7D;
+  }
+  .btn-outline-primary{
+    color: #4D4C7D;
+    border-color: #4D4C7D;
+  }

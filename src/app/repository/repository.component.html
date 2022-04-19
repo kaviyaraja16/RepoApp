@@ -1,0 +1,41 @@
+<div class="container">
+    <div class="row">
+        <div class="col-lg-5 outline"
+        *ngFor="let repository of REPOSITORIES| paginate: {
+                          itemsPerPage: tableSize,
+                          currentPage: page,
+                          totalItems: count
+                        };
+                  let i = index">
+            <div>
+              <h1 style="color: #066163;">{{repository.title}}</h1>
+            </div>
+            <div>
+              <p>{{repository.description}}</p>
+            </div>
+            <div>
+              <button class="btn btn-primary margin-right">javascript</button>
+              <button class="btn btn-primary margin-right">angular</button>
+              <button class="btn btn-primary">angularjs</button>
+            </div>
+          </div>
+    
+    </div>
+    </div>
+    
+    
+      <div class="d-flex justify-content-center btn-color">
+        <pagination-controls 
+        class="selector"
+        previousLabel="Prev"
+        nextLabel="Next"
+        (pageChange)="pageChange($event)"
+        (click)="showLoader($event)">
+        </pagination-controls>
+    </div>
+    <div *ngIf="isShown" class="preloader d-flex align-items-center justify-content-center">
+      <div class="preloader-circle"></div>
+      <div class="preloader-img">
+          <img src="assets/img/rabbit.jpg" alt="">
+      </div>
+    </div>
