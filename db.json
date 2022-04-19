@@ -1,0 +1,322 @@
+{
+    "repositories":[
+        {"id":1,
+        "title":"BetterBuy",
+        "description":"A simple tutorial of Ecom website"
+        },
+        {"id":2,
+        "title":"Amazon",
+        "description":"shopping web app"
+        },
+        {"id":3,
+        "title":"machine learning",
+        "description":"A simple tutorial of machine learning website"
+        },
+        {"id":4,
+        "title":"Xdemy",
+        "description":"Educational website"
+        },
+        {"id":5,
+        "title":"Algorithm",
+        "description":"A simple tutorial of Algorithm"
+        },
+        {"id":6,
+        "title":"kikiInteractive",
+        "description":"interactive web app"
+        },
+        {"id":7,
+        "title":"WHO",
+        "description":"health tips"
+        },
+        {"id":8,
+        "title":"cakephp",
+        "description":"customize your cake"
+        },
+        {"id":9,
+        "title":"docker",
+        "description":"Docker web app"
+        },
+        {"id":10,
+        "title":"github",
+        "description":" website to deploy works"
+        },
+         {"id":11,
+        "title":"Programmer Boy",
+        "description":"programming website"
+        },
+         {"id":12,
+        "title":"swagyboy",
+        "description":"A shopping website"
+        }, {"id":13,
+        "title":"Swiggy",
+        "description":"Food app"
+        }, {"id":14,
+        "title":"Amazon",
+        "description":"A shopping app"
+        }, {"id":15,
+        "title":"Google map",
+        "description":"show direction"
+        }, {"id":16,
+        "title":"Outlook",
+        "description":"A mail app"
+        }, {"id":17,
+        "title":"Flipkart",
+        "description":"A shopping website"
+        }, {"id":18,
+        "title":"Chrome",
+        "description":"An open browser"
+        }, {"id":19,
+        "title":"Camscanner",
+        "description":"A Scanning application"
+        }, {"id":20,
+        "title":"Naukri",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":21,
+        "title":"Indeed",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":22,
+        "title":"Internet Explorer",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":23,
+        "title":"Truecaller",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":24,
+        "title":"Recorder",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":25,
+        "title":"Bing",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":26,
+        "title":"Playstore",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":27,
+        "title":"Facebook",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":28,
+        "title":"Instagram",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":29,
+        "title":"Twitter",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":30,
+        "title":"Snapshot",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":31,
+        "title":"Telegram",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":32,
+        "title":"Firefox",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":33,
+        "title":"Email",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":34,
+        "title":"Teams",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":35,
+        "title":"Excel",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":36,
+        "title":"Word",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":37,
+        "title":"sniptool",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":38,
+        "title":"zoom",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":38,
+        "title":"hotstar",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":40,
+        "title":"Amazon Prime",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":41,
+        "title":"Flipcart",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":42,
+        "title":"Food Panda",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":43,
+        "title":"OLA",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":44,
+        "title":"Uber",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":45,
+        "title":"Ajio",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":46,
+        "title":"Westiside",
+        "description":"A simple tutorial of Ecom website"
+        },
+         {"id":47,
+        "title":"Netflix",
+        "description":"A simple tutorial of Ecom website"
+        },
+         {"id":48,
+        "title":"IRCTC",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":49,
+        "title":"Ixigo",
+        "description":"A simple tutorial of Ecom website"
+        }, {"id":50,
+        "title":"Swiggy",
+        "description":"A simple tutorial of Ecom website"
+        },
+        {"id":51,
+        "title":"Zomato",
+        "description":"A simple tutorial of Ecom website"
+        },
+        {"id":52,
+        "title":"Share it",
+        "description":"A simple tutorial of Ecom website"
+        },
+        {"id":53,
+        "title":"Calender",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":54,
+        "title":"Clock",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":55,
+        "title":"Camera",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":56,
+        "title":"Notebook",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":57,
+        "title":"Google Services",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":58,
+        "title":"Files Go",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":59,
+        "title":"Sun Nxt",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":60,
+        "title":"Sony Live",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":61,
+        "title":"Putty",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":62,
+        "title":"Cricbuzz",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":63,
+        "title":"Udemy",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":64,
+        "title":"Linked in",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":65,
+        "title":"File Manager",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":66,
+        "title":"Hike",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":67,
+        "title":"Settings",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":68,
+        "title":"Whatsapp",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":69,
+        "title":"Google Play Games",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":70,
+        "title":"Naukri",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":71,
+        "title":"Cam scanner",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":72,
+        "title":"chrome",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":73,
+        "title":"IntelliJ",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":74,
+        "title":"NetBeans",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":75,
+        "title":"Docker",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":76,
+        "title":"Websphere",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":77,
+        "title":"Liberty",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":78,
+        "title":"Tomcat",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":79,
+        "title":"Brainly",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":80,
+        "title":"Field Glass",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":81,
+        "title":"SecureCRT",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":82,
+        "title":"Microsoft Docs",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":83,
+        "title":"Python",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":84,
+        "title":"Notepad++",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":85,
+        "title":"Glassdoor",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":86,
+        "title":"MX player",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":87,
+        "title":"VLC",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":88,
+        "title":"Cortana",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":89,
+        "title":"Alexa",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":90,
+        "title":"Lens",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":91,
+        "title":"Scanner Go",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":92,
+        "title":"Office",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":93,
+        "title":"Photos",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":94,
+        "title":"Gallery",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":95,
+        "title":"SNOW",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":96,
+        "title":"Sports",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":97,
+        "title":"Sony LIV",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":98,
+        "title":"You Tube",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":99,
+        "title":"Webex",
+        "description":"A simple tutorial of Ecom website"
+        },{"id":100,
+        "title":"Calculator",
+        "description":"A simple tutorial of Ecom website"
+        }
+
+    ]
+}
