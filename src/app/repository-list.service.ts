@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
-const endpoint = 'http://localhost:3000/repositories';
+const endpoint = 'https://kaviyaraja16.github.io/Server/db.json';
 
 @Injectable({
   providedIn: 'root'
